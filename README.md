@@ -1,12 +1,36 @@
-# React + Vite
+# 💼 Satyam Singh - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio built with **React**, **Tailwind CSS**, **GSAP**, and **Firebase**. This project showcases my technical skills, projects, and experience as a full-stack developer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Visit Portfolio](https://your-live-demo-link.com)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Features
+
+- ⚡ **Fast & Responsive** – Built with Tailwind CSS and mobile-first design
+- 🧊 **3D Rotating Tech Cube** – Classic animated cube built with CSS & FontAwesome
+- ✨ **GSAP Animations** – Smooth page transitions, fade-ins, and interactive elements
+- 📁 **Projects Section** – Showcasing real-world, full-stack and Java-based apps
+- 📄 **Resume Download** – Downloadable PDF resume with icon and animations
+- 📬 **Contact Form** – Integrated with EmailJS and client-side validation
+- 📱 **Mobile Sidebar** – Drawer-style toggle menu for small screens
+- ❌ **Custom 404 Page** – Friendly fallback route
+- 🔀 **Framer Motion** – Page transition animations for route changes
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend**: React, Tailwind CSS, GSAP, Framer Motion, EmailJS
+- **Backend & Auth**: Firebase (Firestore, Auth)
+- **Deployment**: Netlify / Vercel / Firebase Hosting
+- **Icons**: FontAwesome, React Icons
+- **Animations**: GSAP (GreenSock), CSS3, `@keyframes`
+
+---
+
