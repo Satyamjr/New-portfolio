@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio built with **React**, **Tailwind CSS*
 
 ## 🚀 Live Demo
 
-👉 [Visit Portfolio](https://your-live-demo-link.com)
+👉 [Visit Portfolio]([https://your-live-demo-link.com](https://new-portfolio-weld-pi.vercel.app))
 
 ---
 
